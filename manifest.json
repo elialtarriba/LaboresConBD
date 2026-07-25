@@ -1,0 +1,17 @@
+{
+  "name": "Labores",
+  "short_name": "Labores",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#FEFCE8",
+  "theme_color": "#FFF5CC",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
