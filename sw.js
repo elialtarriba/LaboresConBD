@@ -1,4 +1,4 @@
-const CACHE_NAME = 'labores-cache-v15';
+const CACHE_NAME = 'labores-cache-v16';
 const urlsToCache = [
   './',
   './index.html',
